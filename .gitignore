@@ -1,0 +1,37 @@
+# Compiled Java files
+*.class
+
+# Build directories
+target/
+build/
+out/
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Temporary files
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# JVM crash logs
+hs_err_pid*
+replay_pid*
